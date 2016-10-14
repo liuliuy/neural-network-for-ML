@@ -1,0 +1,6 @@
+##exp function,n,numerically
+import math
+math.exp(n)
+Sigmoid函数是一个在生物学中常见的S型的函数，也称为S形生长曲线。 
+Sigmoid函数由下列公式定义: 
+sigmoid=1/(1+e-x) 
